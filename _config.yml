@@ -1,11 +1,14 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "dark"
 
 locale                   : "en-US"
 title                    : "Olin College Aquaculture Profiler"
 title_separator          : "-"
+logo                     : "/images/logo.png"
+url                      : "https://ocap-lair-olin.github.io"
+repository               : "ocap-lair-olin/ocap-lair-olin.github.io"
 
-markdown: "kramdown"
+markdown                 : "kramdown"
 
 # Plugins (previously gems:)
 plugins:
@@ -22,6 +25,12 @@ defaults:
 #       author_profile: true
       toc: true
       shortcut icon: "/images/favicon.png"
+      
+footer:
+  links:
+    - label: "Project"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ocap-lair-olin/"
 
 # Disables RSS feed icon
 atom_feed:
