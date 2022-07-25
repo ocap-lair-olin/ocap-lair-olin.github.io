@@ -27,7 +27,7 @@ Insert Mahima's bio and image here.
 
 *2022*
 
-I am part of the Class of ’25 and intend to major in Mechanical Engineering, but have a strong interest in Robotics, which is the field I want to get involved with after graduation. I joined this project so that I could gain experience in prototyping and fabrication for robotics-related projects. I have mainly been helping with the mechanical side of the project.
+I intend to major in Mechanical Engineering, but have a strong interest in Robotics, which is the field I want to get involved with after graduation. I joined this project so that I could gain experience in prototyping and fabrication for robotics-related projects. I have mainly been helping with the mechanical side of the project.
 
 ## Past Team Members
 
