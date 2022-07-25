@@ -1,7 +1,7 @@
 ---
 title         : "Our Team"
 permalink     : /team
-classes       : wide
+<!-- classes       : wide -->
 ---
 
 ## Summer 2022 Team
