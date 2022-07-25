@@ -10,7 +10,7 @@ permalink     : /team
 
 *2021-2022*
 
-I'm part of the class of 2024 and majoring in Mechanical Engineering. I mainly helped with the design and fabrication of the physical parts of the robot, such as the racks inside the tubes and the tube clamps. I got into this project because I was interested in improving my prototyping skills, working on a team, and learning more about aquaculture and underwater robotics. I offered to SCUBA dive with the robot during testing, but was turned down because I would be a liability.
+I am a Mechanical Engineering major, and am also interested in design and zoology. I mainly helped with the design and fabrication of the physical parts of the robot, such as the racks inside the tubes and the tube clamps. I got into this project because I was interested in improving my prototyping skills, working on a team, and learning more about aquaculture and underwater robotics. I offered to SCUBA dive with the robot during testing, but was turned down because I would be a liability.
 
 ### Brooke Moss ('25)
 
