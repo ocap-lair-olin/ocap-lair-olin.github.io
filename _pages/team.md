@@ -11,12 +11,11 @@ permalink: /team
 
 I'm part of the class of 2024 and majoring in Mechanical Engineering. I mainly helped with the design and fabrication of the physical parts of the robot, such as the racks inside the tubes and the tube clamps. I got into this project because I was interested in improving my prototyping skills, working on a team, and learning more about aquaculture and underwater robotics. I offered to SCUBA dive with the robot during testing, but was turned down because I would be a liability.
 
-
 ### Brooke Moss ('25)
 
 *2022*
 
-Insert Brooke's bio and image here.
+My intended major is Engineering: Sustainability, but I also have a strong interest in Robotics and programming. My future plans are to combine my interests in sustainabilty and robotics to create innovative technological solutions to agricultural and marine problems. I joined this project to gain experience doing hands-on robotics and sustainability work. In addition, I took an interest in this project due to my connection to Downeast Maine, where aquaculture is a growing industry and topic of conversation. My work on this project has consisted of electrical/sensing design and assembly, research into the sustainability-related applications of our robot, and some programming.
 
 ### Mahima Beltur ('22)
 
