@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Olin College Aquaculture Profiler"
 title_separator          : "-"
 logo                     : "/images/logo.png"
-url                      : "https://ocap-lair-olin.github.io"
+#url                      : "https://ocap-lair-olin.github.io"
 repository               : "ocap-lair-olin/ocap-lair-olin.github.io"
 
 markdown                 : "kramdown"
