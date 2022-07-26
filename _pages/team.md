@@ -34,7 +34,7 @@ My intended major is Engineering: Sustainability, but I also have a strong inter
 
 *2022*
 
-Insert Mahima's bio and image here.
+On paper I'm an Engineering major with a concentration in Computing, but I have spent much of my time working in various spaces in robotics. I started with computer vision and human-interaction with robotics and eventually my interest has grown towards autonomy and field robotics (especially in under-water settings)- which is what led me to this project! My work this summer has been around implementing updated electrical systems, integrating sensors, wireless communication and control systems, and programming the profiler's main functionality. 
 
 ### Lauren Thorbecke ('25)
 
