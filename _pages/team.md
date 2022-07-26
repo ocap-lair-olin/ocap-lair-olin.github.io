@@ -28,6 +28,10 @@ My intended major is Engineering: Sustainability, but I also have a strong inter
 
 ### Mahima Beltur ('22)
 
+<figure style="width: 200px" class="align-right">
+  <img src="/images/team-members/mahima.png" alt="Mahima Beltur">
+</figure>
+
 *2022*
 
 Insert Mahima's bio and image here.
@@ -51,7 +55,7 @@ I intend to major in Mechanical Engineering, but have a strong interest in Robot
 ### Sander Miller ('22)
 
 <figure style="width: 200px" class="align-right">
-  <img src="/images/team-members/Sander.jpeg" alt="Sander Miller">
+  <img src="/images/team-members/sander.jpg" alt="Sander Miller">
 </figure>
 
 *2020-2021*
