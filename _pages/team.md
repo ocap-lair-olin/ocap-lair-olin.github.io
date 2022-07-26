@@ -54,6 +54,10 @@ I intend to major in Mechanical Engineering, but have a strong interest in Robot
 
 *2020-2021*
 
+<figure style="width: 200px" class="align-right">
+  <img src="/images/team-members/Sander.jpeg" alt="Sander Miller">
+</figure> 
+
 I graduated in 2022 with a degree in Engineering with a concentration in robotics. I am interested in perception, control, and automation. On the aquaculture project I explored the feasability of using computer vision to monitor key data such as growth rates, biomass, and pen populations. I also helped design, build, and test the profiler's preliminary electrical and software systems. 
 
 ### Lilly Novak ('22)
