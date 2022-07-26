@@ -62,9 +62,15 @@ I intend to major in Mechanical Engineering, but have a strong interest in Robot
 
 I graduated in 2022 with a degree in Engineering with a concentration in robotics. I am interested in perception, control, and automation. On the aquaculture project I explored the feasability of using computer vision to monitor key data such as growth rates, biomass, and pen populations. I also helped design, build, and test the profiler's preliminary electrical and software systems. 
 
-### Lilly Novak ('22)
+### Lilly O'saurus ('22)
+
+<figure style="width: 200px" class="align-right">
+  <img src="/images/team-members/lilly.jpg" alt="Lilly O'saurus">
+</figure>
 
 *2020-2021*
+
+I graduated in 2022 with a degree in Engineering with a concentration in robotics. I am interested in Mechanical design, user experience design, and engineering for sustainability. On the aquaculture project I explored how to connect the profiler to existing infrastructure and how to design it for long mission deployment. I also helped design build and test the profiler’s preliminary electrical and mechanical systems.
 
 ### Zoie Leo ('24)
 
