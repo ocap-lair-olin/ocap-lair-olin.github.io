@@ -3,3 +3,16 @@ main:
     url: /
   - title: "Team"
     url: /team
+  - title: "Gallery"
+    url: /gallery
+  - title: "2022 Updates"
+    children:
+      - title: "Mechanical"
+        url: "/updates/mechanical/"
+      - title: "Programming"
+        url: "/updates/programming/"  
+      - title: "Electrical"
+        url: "/updates/electrical/"
+      - title: "Testing"
+        url: "/updates/testing/"
+        
