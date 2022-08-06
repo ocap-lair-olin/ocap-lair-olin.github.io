@@ -20,4 +20,4 @@ render_gallery:
 ---
 
 <!-- Adds gallery of full robot renders -->
-{% include render_gallery caption="**Full Robot Renders**" %}
+{% include gallery id="render_gallery" caption="**Full Robot Renders**" %}
