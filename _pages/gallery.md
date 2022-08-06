@@ -9,12 +9,12 @@ render_gallery:
     image_path: /images/renders/Render1-V1.0.JPG
     alt: "Isometric render of robot"
     title: "Isometric render of full robot"
-  - url: /images/renders/Render1-V2.0.JPG
-    image_path: /images/renders/Render1-V2.0.JPG
+  - url: /images/renders/Render2-V1.0.JPG
+    image_path: /images/renders/Render2-V1.0.JPG
     alt: "Top three-quarters render of robot"
     title: "Top 3/4 render of robot"
-  - url: /images/renders/Render1-V3.0.JPG
-    image_path: /images/renders/Render1-V3.0.JPG
+  - url: /images/renders/Render3-V1.0.JPG
+    image_path: /images/renders/Render3-V1.0.JPG
     alt: "Bottom three-quarters render of robot"
     title: "Bottom 3/4 render of robot"
 ---
