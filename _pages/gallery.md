@@ -17,6 +17,15 @@ render_gallery:
     image_path: /images/renders/Render3-V1.0.JPG
     alt: "Bottom three-quarters render of robot"
     title: "Bottom 3/4 render of robot"
+
+# Gallery of testing photos
+# Images from /images/testing/
+testing_gallery:
+
+# Gallery of studio photos
+# Images from /images/studio/
+studio_gallery:
+
 ---
 
 <!-- Adds gallery of full robot renders -->

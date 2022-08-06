@@ -8,6 +8,9 @@ logo                     : "/images/olinO.png"
 url                      : "https://ocap-lair-olin.github.io"
 #repository               : "ocap-lair-olin/ocap-lair-olin.github.io"
 
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+
 markdown                 : "kramdown"
 
 # Plugins (previously gems:)
@@ -38,3 +41,8 @@ atom_feed:
   
 include:
   - _pages
+
+collections:
+  updates:
+    output: true
+    permalink: /updates/
