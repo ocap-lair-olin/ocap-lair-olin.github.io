@@ -9,11 +9,11 @@ main:
   #   url: /updates/
   #   children:
   - title: "Mechanical"
-    url: /updates/mechanical/
+    url: /updates/mechanical
   - title: "Programming"
-    url: /updates/programming/
+    url: /updates/programming
   - title: "Electrical"
-    url: /updates/electrical/
+    url: /updates/electrical
   - title: "Testing"
-    url: /updates/testing/
+    url: /updates/testing
         
