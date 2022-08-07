@@ -1,13 +1,11 @@
 ---
-title         : "Mechanical"
+title         : "Summer 2022: Mechanical"
 permalink     : /updates/mechanical
 ---
 
-## Summer 2022: Mechanical
+Mechanical focused on the physical build of the project. As well as improving on old design iterations, we came up with the designs for a buoyancy control system, battery tube racks, end cap retainers, a braking system, and a frame.
 
-Mechanical focused on the physical build of the project. As well as improving on old design iterations, we came up with the designs for a buoyancy control system, battery tube racks, end cap retainers, a braking system, and a frame. 
-
-This summer, we started off with a rough, not-yet-functioning prototype. The robot was unable to sink, sat horizontally on the water, and could not be communicated with once submerged. 
+This summer, we started off with a rough, not-yet-functioning prototype. The robot was unable to sink, sat horizontally on the water, and could not be communicated with once submerged.
 
 Because we had decided against ordering all the batteries planned to be included in the design, we bought placeholder weights and constructed racks to hold them. These were placed inside of the battery tubes. Once this was done, the robot was able to sink. We then added a buoyancy control system, constructed of a combination of fixed buoyancy foam and adjustable weights. Weights can be attached and removed to calibrate overall buoyancy.
 

@@ -1,7 +1,7 @@
 ---
-title         : "Programming"
+title         : "Summer 2022: Programming"
 permalink     : /updates/programming
 ---
 
-## Summer 2022: Programming
+Insert programming summary here
 

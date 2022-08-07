@@ -1,6 +1,6 @@
 ---
-title         : "Testing"
+title         : "Summer 2022: Testing"
 permalink     : /updates/testing
 ---
 
-## Summer 2022: Testing
+Insert testing summary here
