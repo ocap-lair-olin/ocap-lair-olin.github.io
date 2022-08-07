@@ -7,7 +7,7 @@ In terms of electrical work, our tasks this summer generally fell into two categ
 
 ## Sensing
 
-Early in the summer, the electrical priority was to hook up and interface with the Blue Robotics temperature and pressure sensors, which had already been physically installed in the computer tube. This process was relatively straightforward (apart from our temperature sensor being tempermental on test day), and these sensors allowed us to actually collect data and operate in a control loop.
+Early in the summer, the electrical priority was to hook up and interface with the Blue Robotics temperature and pressure sensors, which had already been physically installed in the computer tube. This process was relatively straightforward (apart from our temperature sensor being temperamental on test day), and these sensors allowed us to actually collect data and operate in a control loop.
 
 The next sensing project was to start integrating the dissolved oxygen and in-house chlorophyll sensors in the second tube into our Jetson. After talking with the group who designed that tube, it became apparent that integration would take time and energy that our electrical team could not devote to it, as we were pushing hard to get the internals rewired before testing could take place. However, if it weren't for that delay, I anticipate it wouldn't have been out of the question to get those sensors connected and functional.
 
