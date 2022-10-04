@@ -73,7 +73,13 @@ I graduated in 2022 with a degree in Engineering with a concentration in robotic
 
 ### Zoie Leo ('24)
 
+<figure style="width: 200px" class="align-right">
+  <img src="/images/team-members/zoie.png" alt="Zoie Leo">
+</figure>
+
 *2021*
+
+I have a passion for robotics, particularly integrating the mechanical aspects, since I am studying for a degree in Mechanical Engineering. What drew me to this project was the technical challenge of underwater robotics and designing infrastructure to support sustainability. On this project I helped design, build, and iterate on protoypes along with a water testing rig for streamlining robot propulsion. I also had the chance to work on my soft skills by conducting interviews with potential customers, along with organizing a site visit to an offshore Aquaculture farm.
 
 ### Shashank Swaminathan ('22)
 

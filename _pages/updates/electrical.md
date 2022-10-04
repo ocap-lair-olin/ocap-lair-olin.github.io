@@ -1,7 +1,18 @@
 ---
 title         : "Summer 2022: Electrical"
 permalink     : /updates/electrical
+
+# Gallery of testing photos
+# Images from /images/diagrams/
+# testing_gallery:
+#   - url: /images/diagrams/Render1-V1.0.JPG
+#     image_path: /images/renders/Render1-V1.0.JPG
+#     alt: "Isometric render of robot"
+#     title: "Isometric render of full robot"
 ---
+
+<!-- Adds gallery of full robot renders -->
+<!-- {% include gallery id="render_gallery" caption="**Electrical Diagrams**" %} -->
 
 In terms of electrical work, our tasks this summer generally fell into two categories. Our effort was divided between adding sensor capability and reworking existing wiring to improve functionality.
 
